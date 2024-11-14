@@ -5,8 +5,7 @@ Python3 wrapper around the [CoinMarketCap](https://coinmarketcap.com//)
 ### Installation
 Install my repoisitory 
 ```bash
-git clone https://github.com/kuka666/coinmarket.git
-cd coinmarket
+git clone https://github.com/DedIsshin/coinmarket_scrap.git
 pip install -r requirements.txt 
 ```
 
